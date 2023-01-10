@@ -1,4 +1,4 @@
-# smarthome
+# Fluter- SmartHomeUI
 
 A new Flutter project.
 
